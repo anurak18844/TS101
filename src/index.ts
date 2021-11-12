@@ -296,16 +296,14 @@ console.log(d1.move());
 console.log(d1.eat());
 
 
-//Q2 สร้าง Tuple ของนักเรียน [id, name, mid, final, project, grade]
+//Q1 สร้าง Tuple ของนักเรียน [id, name, mid, final, project, grade]
 //                        [1, 'Name', 20, 25,30, " "]
 //Output : <id>:<name>, Total: <mid+final+project>, Grade: <grade>
-//แสดงการ implements move() eat()
-// แสดงการส้ราง object
 //Filename : Anurak_Q1.ts
 
-//Q1 การบ้าน  implements 1 อาชีพ จาก Human
-//แสดงการ implements move() eat()
+//Q2 การบ้าน  implements 1 อาชีพ จาก Human
 // แสดงการส้ราง object
+//แสดงการ implements move() eat()
 //Filename : Anurak_Q2.ts
 
 //Generic ยังไม่สร้าง Type ตอนสร้าง Function
