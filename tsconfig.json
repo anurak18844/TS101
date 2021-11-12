@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es2018", //Version JavaScript from convert
+        "outDir": "./dist", //Save file compile at dist
+        "rootDir": "./src",  // Compile at src
+        "module": "commonjs"
+    }
+}
